@@ -1,39 +1,23 @@
-# Laboratório Azure Speech Studio e Language Studio
+## Evidências do laboratório
 
-## Objetivo
+### Recurso Azure Speech criado
 
-Este projeto foi desenvolvido como parte do desafio da DIO, com o objetivo de praticar os serviços de Inteligência Artificial do Microsoft Azure voltados para análise de fala e linguagem natural.
+Recurso criado no portal Microsoft Azure para utilização do Azure Speech Services.
 
-## Tecnologias utilizadas
+![Recurso Azure Speech](images/azure.jpg)
 
-- Microsoft Azure
-- Azure Speech Studio
-- Azure Language Studio
-- GitHub
+---
 
-## Etapa 1 - Criação do recurso Azure Speech
+### Azure Speech Studio
 
-**Serviço criado:** Azure Speech Services  
-**Nome do recurso:** speech-dio-rubia  
-**Grupo de recursos:** rg-speech-dio  
-**Região utilizada:** South Central US  
-**Camada:** Free F0  
+Imagem referente ao laboratório realizado utilizando o Azure Speech Studio e os recursos de conversão de fala em texto.
 
-## Etapa 2 - Speech Studio
+![Azure Speech Studio](images/azure2.jpg)
 
-Durante esta etapa foram realizadas as seguintes atividades:
+---
 
-- Acesso ao Speech Studio;
-- Configuração do recurso criado no Azure;
-- Realização de teste utilizando conversão de fala em texto (Speech to Text).
+### Azure Language Studio
 
-## Insights adquiridos
+Imagens referentes à exploração dos recursos de processamento de linguagem natural utilizando o Azure Language Studio.
 
-- Aprendi como criar e configurar um recurso de Inteligência Artificial no Azure.
-- Compreendi o funcionamento da conversão de fala em texto utilizando o Azure Speech Services.
-- Entendi como o Speech Studio permite validar recursos de reconhecimento de voz.
-- Pratiquei documentação técnica utilizando Markdown e GitHub.
-
-Explorar Language Studio;
-Criar análises de texto;
-Integrar APIs do Azure AI em aplicações.
+![Azure Language Studio](images/azure3.jpg)
